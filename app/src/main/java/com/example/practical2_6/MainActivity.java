@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     if(result.getData() != null){
                         float res = result.getData().getFloatExtra("data",0);
                         Log.d("simple_app_tag","Result:" +  res);
-                        Log.d("simple_app_tag","Выполнил: Саулин Иван Александрович РИБО-01-22");
+                        Log.d("simple_app_tag","Выполнил: Саулин Иван Александрович Вариант 1");
                         tvTextValue.setText("Результат: " + res);
                     }
                 }

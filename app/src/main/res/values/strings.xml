@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Practical2_6</string>
-    <string name="II">Введите первое чсло:</string>
+    <string name="II">Введите второе число:</string>
     <string name="I">Введите первое число</string>
     <string name="count">Вычислить</string>
-    <string name="hi">Выполнил: Саулин Иван Александрович РИБО-01-22</string>
+    <string name="hi">Выполнил: Саулин Иван Александрович Вариант 1</string>
     <string name="start">Start</string>
     <string name="III">Введите третье число:</string>
 </resources>
